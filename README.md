@@ -1,28 +1,24 @@
-🧾 Proyecto Final: Evaluación por Pares
-🗂️ GitHub (6 puntos)
-Repositorio público en GitHub (2 puntos)
-Código relacionado con Redux (4 pts)
-🏠 Página de destino (5 puntos)
-Imagen de fondo (1 pt)
-Párrafo sobre la empresa (1 pt)
-Nombre de la empresa (1 pt)
-Botón “Comenzar” que enlaza al listado de productos (2 puntos)
-🪴 Listado de productos (9 puntos)
-Seis plantas únicas con miniatura, nombre y precio (2 pts)
-Agrupadas en al menos tres categorías (1 pt)
-Botón “Añadir a la cesta” con:
-Aumenta el icono del carrito (2 pts)
-Se desactiva tras pulsarlo (2 puntos)
-Añade la planta al carrito (2 pts)
-🧭 Cabecera (7 pts)
-Presentar en listado y carrito (2 pts)
-Icono del carrito con contador (3 pts)
-Navegación entre páginas (2 ptos)
-🛒 Página del carrito (23 pts)
-Número total de plantas (2 puntos)
-Costo total (2 pts)
-Cada planta con miniatura, nombre y precio unitario (6 pts)
-Botón de incremento por tipo de planta (3 puntos)
-Botón decremento por tipo de planta (3 pts)
-Botón para eliminar planta del carrito (3 pts)
-Resumen final del pedido (4 pts)
+# 🛒 Revisión de Pares
+
+Proyecto final del curso de desarrollo web con React, Redux Toolkit y Vite. Esta aplicación permite visualizar productos y gestionar un carrito de compras con persistencia en `localStorage`.
+
+## 🚀 Demo en vivo
+
+👉 [Ver la aplicación](https://victormbm15.github.io/Revision-de-Pares)
+
+## 🧰 Tecnologías utilizadas
+
+- ⚛️ React
+- 🧠 Redux Toolkit
+- ⚡ Vite
+- 🎨 CSS (estilos personalizados)
+- 🗃️ localStorage
+- 📦 GitHub Pages (despliegue)
+
+## 📦 Instalación local
+
+```bash
+git clone https://github.com/victormbm15/Revision-de-Pares.git
+cd Revision-de-Pares
+npm install
+npm run dev
